@@ -223,12 +223,12 @@ footer li a{
 .row1:hover{
     cursor: pointer;
     background-color: #c9c8c8fb;
-    box-shadow: 0px 0px 5px #c9c8c8fb; 
+    box-shadow: 0px 0px 36px #c9c8c8fb; 
 }
 .row2:hover{
     cursor: pointer;
     background-color: #c9c8c8fb;
-    box-shadow: 0 0 200px #c9c8c8fb;
+    box-shadow: 0 0 36px #c9c8c8fb;
 }
 
 h4{
